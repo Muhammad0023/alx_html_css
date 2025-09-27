@@ -16,4 +16,30 @@ aside {
     flex: 1;
     overflow-y: auto;
 }
-
+/* custom styles */
+body {
+    background-color: #d0cccc;
+    font-family: "Montserrat", sans-serif;
+}
+header {
+    background-color: #dcd6d6;
+    color: white;
+    border-radius: 5px;
+}
+article {
+    background-color: rgb(119, 119, 119);
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
+aside {
+    background-color: rgb(119, 119, 119);
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    font-family: "Montserrat", sans-serif;
+}
+.logo {
+    font-size: 24px;
+    margin-right: 10px;
+}
